@@ -14,8 +14,8 @@
             return {
                 authenticated: false,
                 mockAccount: {
-                    username: "nraboy",
-                    password: "password"
+                    username: "admin",
+                    password: "admin"
                 }
             }
         },
@@ -37,7 +37,7 @@
 
 <style>
     body {
-        background-color: #F0F0F0;
+    background: url('./assets/images/background.jpg') no-repeat center center fixed;
     }
     h1 {
         padding: 0;
