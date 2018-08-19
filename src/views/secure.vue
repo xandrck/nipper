@@ -6,12 +6,3 @@
         </p>
     </div>
 </template>
-
-<script>
-    export default {
-        name: 'Secure',
-        data() {
-            return {};
-        }
-    }
-</script>
