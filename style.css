@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;  
+  }
+  body {
+    background: url('./assets/images/background.jpg') no-repeat center center fixed;
+    }
+    h1 {
+        padding: 0;
+        margin-top: 0;
+    }
+    #app {
+        width: auto;
+        margin: auto;
+    }
+    #secure {
+      padding: 20px;
+      margin-top: 10px;
+  }
+  #login {
+    width: 500px;
+    margin: auto;
+    margin-top: 200px;
+    padding: 20px;
+}
+#page1 {
+  padding: 20px;
+  margin-top: 10px;
+}

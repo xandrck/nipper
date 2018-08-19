@@ -15,12 +15,3 @@
         }
     }
 </script>
-
-<style scoped>
-    #secure {
-        background-color: #FFFFFF;
-        border: 1px solid #CCCCCC;
-        padding: 20px;
-        margin-top: 10px;
-    }
-</style>
